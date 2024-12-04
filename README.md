@@ -1,6 +1,6 @@
 # Hi there 👋
 <br>
-My self Utkarsh singh
+My self Utkarsh kr singh 
 
 <!--
 **Utkarshvvit/utkarshvvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
